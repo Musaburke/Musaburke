@@ -8,6 +8,7 @@ Second-year Computer Science student at City, University of London. I build fast
 - [DSB Commercial Cleaning](https://dsbcommercialcleaning.co.uk): a fast, secure website for a London-area cleaning company, live on its own domain.
 - [Renewly](https://therenewly.vercel.app): a shared dashboard that tells small teams the last day they can safely cancel each paid tool before it auto-renews. Built with a friend.
 - [Break the AI](https://break-the-ai.muburke07.workers.dev): a browser game where you trick a made-up bank's AI products into leaking their secrets, then a debrief explains the attack and the fix. Four of six levels live. [Code](https://github.com/Musaburke/break-the-ai)
+- [Down to the pixel](https://down-to-the-pixel.pages.dev): follow one key press from your fingertip to a single lit pixel, in one scroll-driven Three.js walkthrough with hand-written shaders. [Code](https://github.com/Musaburke/down-to-the-pixel)
 - [AI field guide](https://musa-ai-field-guide.pages.dev): practical guides to using AI well, with every claim sourced.
 - [Design gallery](https://musa-design-gallery.pages.dev): the components from my sites in one place, each with its code.
 
